@@ -1,0 +1,24 @@
+---
+layout: single
+date:   2017-06-02 20:00:00 +0300
+title:  'Meetup #5'
+excerpt: "Orel developers meetup #5. Develop and test through Docker + Gitlab CI. Ruby Gotchas."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: assets/images/header.jpg
+toc: true
+---
+
+# Meetup #5
+
+## Talks
+
+* Alexander Sigachev. Develop and test through Docker + Gitlab CI
+* Nikita Skalkin. Ruby Gotchas
+
+## When & Where
+
+When: 2017-06-02 20:00:00
+
+Where: Orel, Rusanova street 21a - Inventos, conference hall
