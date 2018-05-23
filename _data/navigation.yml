@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "News & Meetups"
+  - title: "meetups"
     url: "/meetups"
-  - title: "About"
+  - title: "about"
     url: "/about"

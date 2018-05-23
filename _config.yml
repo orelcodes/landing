@@ -9,13 +9,13 @@ title_separator            : "-"
 name                       : "Orel Codes"
 description                : "Community of developrs located in Orel"
 url                        : "http://orel.codes" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                    : # the subpath of your site, e.g. "/blog"
+baseurl                    : "" # the subpath of your site, e.g. "/blog"
 repository                 : "orelrb/landing" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                     : "/assets/images/fallback.jpg"
 breadcrumbs                : false # true, false (default)
 words_per_minute           : 200
 
-languages                  : ["en", "ru"]
+languages                  : ["ru", "en"]
 exclude_from_localizations : ["assets", "CNAME"]
 defaultLang                : ru
 languageNames:
@@ -171,6 +171,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-multiple-languages-plugin
 
 # mimic GitHub Pages with --safe
 whitelist:
