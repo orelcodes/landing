@@ -82,6 +82,10 @@ analytics:
 
 telegram:
   link: 'https://t.me/orelrb'
+vk:
+  link: 'https://vk.com/orelrb'
+facebook:
+  link: 'https://www.facebook.com/orelcodes'
 
 # Site Author
 author:

@@ -1,0 +1,23 @@
+---
+layout: single
+date:   2016-12-23 20:00:00 +0300
+title:  'Meetup #1'
+excerpt: "Orel developers meetup #1. Elasticsearch, Kibana, Fluentd - getting started."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: assets/images/header.jpg
+toc: true
+---
+
+# Meetup #1
+
+## Talks
+
+* Alexander Sigachev. Elasticsearch, Kibana, Fluentd - getting started
+
+## When & Where
+
+When: 2016-12-23 20:00:00
+
+Where: Orel, Rusanova street 21a - Inventos, conference hall
