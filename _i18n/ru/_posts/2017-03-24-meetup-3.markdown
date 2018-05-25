@@ -1,0 +1,24 @@
+---
+layout: single
+date:   2017-03-24 20:00:00 +0300
+title:  'Meetup #3'
+excerpt: "Orel developers meetup #3. Isomorphic applications on JavaScript. OOP application's design principles."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: assets/images/header.jpg
+toc: true
+---
+
+# Meetup #3
+
+## Talks
+
+* Ilya Ozerov. Isomorphic applications on JavaScript
+* Nikita Skalkin. OOP application's design principles
+
+## When & Where
+
+When: 2017-03-24 20:00:00
+
+Where: Orel, Rusanova street 21a - Inventos, conference hall

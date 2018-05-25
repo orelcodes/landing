@@ -1,0 +1,24 @@
+---
+layout: single
+date:   2017-04-28 20:00:00 +0300
+title:  'Meetup #4'
+excerpt: "Orel developers meetup #4. Config management with Ansible. Parsing expression grammar of formal languages with Treetop."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: assets/images/header.jpg
+toc: true
+---
+
+# Meetup #4
+
+## Talks
+
+* Alexander Svetkin. Config management with Ansible
+* Ivan Lopatin. Parsing expression grammar of formal languages with Treetop
+
+## When & Where
+
+When: 2017-04-28 20:00:00
+
+Where: Orel, Pushkin street 6 - Loft "The third floor"
