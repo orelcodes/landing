@@ -1,8 +1,8 @@
 ---
 layout: single
 date:   2017-01-27 20:00:00 +0300
-title:  'Meetup #2'
-excerpt: "Orel developers meetup #2. Data analysis with ClickHouse. First steps with RabbitMQ."
+title:  'Митап #2'
+excerpt: "2-jй митап орловских разработчиков. Анализ данных с ClickHouse. Первые шаги с RabbitMQ."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,15 +10,15 @@ header:
 toc: true
 ---
 
-# Meetup #2
+# Митап #2
 
-## Talks
+## Доклады
 
-* Alexander Sigachev. Data analysis with ClickHouse
-* Alexander Svetkin. First steps with RabbitMQ
+* Александр Сигачев. Анализ данных с ClickHouse.
+* Александр Светкин. Первые шаги с RabbitMQ.
 
-## When & Where
+## Где & Когда
 
-When: 2017-01-27 20:00:00
+Когда: 27 Января 20:00
 
-Where: Orel, Rusanova street 21a - Inventos, conference hall
+Где: Орёл, ул. Русанова 21а - Inventos Tower

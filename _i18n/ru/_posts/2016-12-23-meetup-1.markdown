@@ -1,8 +1,8 @@
 ---
 layout: single
 date:   2016-12-23 20:00:00 +0300
-title:  'Meetup #1'
-excerpt: "Orel developers meetup #1. Elasticsearch, Kibana, Fluentd - getting started."
+title:  'Митап #1'
+excerpt: "1-ый митап орловских разработчиков. Elasticsearch, Kibana, Fluentd - getting started."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,14 +10,14 @@ header:
 toc: true
 ---
 
-# Meetup #1
+# Митап #1
 
-## Talks
+## Доклады
 
-* Alexander Sigachev. Elasticsearch, Kibana, Fluentd - getting started
+* Александр Сигачев. Elasticsearch, Kibana, Fluentd - getting started
 
-## When & Where
+## Где & Кода
 
-When: 2016-12-23 20:00:00
+Когда: 23 Декабря, 20-00
 
-Where: Orel, Rusanova street 21a - Inventos, conference hall
+Где: Орёл, ул. Русанова 21а - Inventos Tower

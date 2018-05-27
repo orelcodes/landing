@@ -1,8 +1,10 @@
 ---
 layout: single
-title:  "First Ruby Drinkup!"
+title:  "Первый Ruby Drinkup!"
 date:   2016-11-25 19:00:00 +0300
 categories: meetup ruby
 ---
 
-See you at the Bar Boris 25 November!
+Встречаемся в Бар Борисе с 19:00 и до победного конца. Попробуйте разные сорта пива, отведайте великолепных бургеров и барбекю, знакомьтесь и общайтесь.
+
+Bar Boris, г. Орел, улица Пушкина, 6, 2-й этаж
