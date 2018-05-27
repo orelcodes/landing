@@ -2,7 +2,7 @@
 layout: single
 date:   2017-07-28 20:00:00 +0300
 title:  'Meetup #7'
-excerpt: 'Orel developers meetup #7. Frontend frameworks overview. Developing services for a "smart" speakers.'
+excerpt: '7-ой митап орловских разработчиков. Обзор фронтенд-фреймворков и технологий. Разработка сервисов для умных колонок.'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,15 +10,15 @@ header:
 toc: true
 ---
 
-# Meetup #7
+# Митап #7
 
-## Talks
+## Доклады
 
-* Pavel Bogatyrov. Frontend frameworks overview
-* Ilya Lityuga. Developing services for a "smart" speakers
+* Богатырёв Павел - Обзор фронтенд-фреймворков и технологий.
+* Литюга Илья - Разработка сервисов для "умных" колонок.
 
-## When & Where
+## Где & Когда
 
-When: 2017-07-28 20:00:00
+Когда: 7 Июля 20-00
 
-Where: Orel, Lenina street 1 - Loft-space "The Place"
+Где: Орёл, ул. Ленина 1 - Лофт-пространство "Место"

@@ -1,8 +1,8 @@
 ---
 layout: single
 date:   2017-06-23 20:00:00 +0300
-title:  'Meetup #6'
-excerpt: "Orel developers meetup #6. How to start developing on Ruby on Rails. Solving Ruby's memories problems."
+title:  'Митап #6'
+excerpt: "6-ой митап орловских разработчиков. Как начать программировать на Ruby/Ruby on Rails. Решение проблем с памятью в Ruby."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,15 +10,15 @@ header:
 toc: true
 ---
 
-# Meetup #6
+# Митап #6
 
-## Talks
+## Доклады
 
-* Kirill Karpinovsky. How to start developing on Ruby on Rails
-* Ivan Lopatin. Solving Ruby's memories problems
+* Кирилл Карпиновский. Как начать программировать на Ruby/Ruby on Rails.
+* Иван Лопатин. Решение проблем с памятью в Ruby.
 
-## When & Where
+## Где & Когда
 
-When: 2017-06-23 20:00:00
+Когда: 23 Июня 20-00
 
-Where: Orel, Rusanova street 21a - Inventos, conference hall
+Где: Орёл, ул. Русанова 21а - Inventos Tower

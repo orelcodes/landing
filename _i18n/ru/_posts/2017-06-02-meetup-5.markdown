@@ -1,8 +1,8 @@
 ---
 layout: single
 date:   2017-06-02 20:00:00 +0300
-title:  'Meetup #5'
-excerpt: "Orel developers meetup #5. Develop and test through Docker + Gitlab CI. Ruby Gotchas."
+title:  'Митап #5'
+excerpt: "5-ый митап орловских разработчиков. Разработка и тестирование с помощью Docker и Gitlab CI. Ruby Gotchas."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,15 +10,16 @@ header:
 toc: true
 ---
 
-# Meetup #5
+# Митап #5
 
-## Talks
+## Доклады
 
-* Alexander Sigachev. Develop and test through Docker + Gitlab CI
-* Nikita Skalkin. Ruby Gotchas
+* Александр Сигачев. Разработка и тестирование с помощью Docker и Gitlab
+CI.
+* Никита Скалкин. Ruby Gotchas
 
-## When & Where
+## Где & Когда
 
-When: 2017-06-02 20:00:00
+Где: 2 Июня 20-00
 
-Where: Orel, Rusanova street 21a - Inventos, conference hall
+Где: Орёл, ул. Русанова 21а - Inventos Tower

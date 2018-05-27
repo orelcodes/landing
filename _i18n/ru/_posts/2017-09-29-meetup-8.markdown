@@ -1,8 +1,9 @@
 ---
 layout: single
 date:   2017-09-29 20:00:00 +0300
-title:  'Meetup #8'
-excerpt: "Orel developers meetup #8. Docker - from developer's machine through CI to production. Tracking changes on the web pages."
+title:  'Митап #8'
+excerpt: "8-ой митап орловских разработчиков. Docker - от машины
+разработчка через CI в production. Следим за изменениями на web-страницах."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,15 +11,16 @@ header:
 toc: true
 ---
 
-# Meetup #8
+# Митап #8
 
-## Talks
+## Доклады
 
-* Alexander Sigachev. Docker - from developer's machine through CI to production
-* Ilya Koskin. Tracking changes on the web pages
+* Александр Сигачев. Docker - от машины разработчка через CI в production.
+* Илья Коськин. "Что глазу не видно" - следим за изменениями на
+web-страницах.
 
-## When & Where
+## Где & Когда
 
-When: 2017-09-29 20:00:00
+Когда: 29 Сентября 20-00
 
-Where: Orel, Rusanova street 21a - Inventos, conference hall
+Где: Орёл, ул. Русанова 21а - Inventos Tower
