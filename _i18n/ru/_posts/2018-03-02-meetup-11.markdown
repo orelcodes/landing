@@ -2,7 +2,7 @@
 layout: single
 date:   2018-03-02 19:30:00 +0300
 title:  'Meetup #11'
-excerpt: "Orel developers meetup #11. Creating an interpreter of algebraic expressions. Kafka - from simple to complex."
+excerpt: "11-ый митап орловских разработчиков. Создание интерпретатора простых алгебраических выражений на Ruby. Kafka - от простого сложному."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,15 +10,16 @@ header:
 toc: true
 ---
 
-# Meetup #11
+# Митап #11
 
-## Talks
+## Доклады
 
-* Ivan Lopatin. Creating an interpreter of algebraic expressions
-* Yuri Arhipov. Kafka - from simple to complex
+* Иван Лопатин. Создание интерпретатора простых алгебраических выражений
+на Ruby.
+* Юрий Архипов. Kafka - от простого сложному.
 
-## When & Where
+## Где & Когда
 
-When: 2018-03-02 19:30:00
+Когда: 2018-03-02 19:30:00
 
-Where: Orel, Pushkin street 6 - Loft-place "The third floor"
+Где: Орёл, ул. Пушкина 6 - Лофт-пространство "3 Этаж"

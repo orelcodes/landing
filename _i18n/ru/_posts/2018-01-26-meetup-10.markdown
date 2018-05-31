@@ -2,7 +2,7 @@
 layout: single
 date:   2018-01-26 19:00:00 +0300
 title:  'Meetup #10'
-excerpt: "Orel developers meetup #10. Kotlin language. Scala overview."
+excerpt: "10-ый митап орловских разработчиков. Kotlin. Scala."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,15 +10,15 @@ header:
 toc: true
 ---
 
-# Meetup #10
+# Митап #10
 
-## Talks
+## Доклады
 
-* Pavel Shorokxov. Kotlin language
-* Alexey Fomkin. Scala overview
+* Павел Шорохов. Обзор языка Kotlin.
+* Алексей Фомкин. Scala overview
 
-## When & Where
+## Где & Когда
 
-When: 2018-01-26 19:00:00
+Когда: 2018-01-26 19:00:00
 
-Where: Orel, Pushkin street 6 - Loft-place "The third floor"
+Где: Орёл, ул. Пушкина 6 - Лофт-пространство "3 Этаж"

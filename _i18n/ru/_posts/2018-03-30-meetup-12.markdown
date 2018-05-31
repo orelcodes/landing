@@ -1,0 +1,25 @@
+---
+layout: single
+date:   2018-03-30 19:00:00 +0300
+title:  'Meetup #12'
+excerpt: "12-ый митап орловских разработчиков. Golang. Service Discovery в распределенных системах на примере Consul."
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: assets/images/header.jpg
+toc: true
+---
+
+# Митап #12
+
+## Доклады
+
+* Кирилл Волченко. Язык программирования Go.
+* Александр Сигачев. Service Discovery в распределенных системах на
+примере Consul.
+
+## Где & Когда
+
+Когда: 2018-03-30 19:00:00
+
+Где: Орёл, ул. Пушкина 6 - Лофт-пространство "3 Этаж"
