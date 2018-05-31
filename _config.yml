@@ -3,7 +3,7 @@
 minimal_mistakes_skin    : "default"
 
 # Site Settings
-locale                     : "en-US"
+locale                     : "ru-RU"
 title                      : "Orel Codes"
 title_separator            : "-"
 name                       : "Orel Codes"
@@ -218,7 +218,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -228,7 +227,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
