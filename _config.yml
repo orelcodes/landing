@@ -63,7 +63,7 @@ naver_site_verification  :
 twitter:
   username               : 'orel_codes'
 facebook:
-  username               : 'orelcodes'
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -84,8 +84,6 @@ telegram:
   link: 'https://t.me/orelrb'
 vk:
   link: 'https://vk.com/orelrb'
-facebook:
-  link: 'https://www.facebook.com/orelcodes'
 
 # Site Author
 author:
@@ -93,7 +91,7 @@ author:
   email            : # "nikskalkin@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  facebook         : 'orelcodes'
+  facebook         : #
   github           : #
   twitter          : "orel_codes"
   youtube          : "https://www.youtube.com/channel/UCOYO9A1u0MLK7X62U4S3oZg/featured"
