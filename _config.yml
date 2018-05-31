@@ -79,9 +79,9 @@ analytics:
   provider               : "yandex" # false (default), "google", "google-universal", "custom"
 
 telegram:
-  link: 'https://t.me/orelrb'
+  link: 't.me/orel_codes_chat'
 vk:
-  link: 'https://vk.com/orelrb'
+  link: 'https://vk.com/orel_codes'
 
 # Site Author
 author:
